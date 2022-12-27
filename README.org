@@ -1,1 +1,2 @@
 * DOTFILES
+repo to keep my wm dotfiles etc so that i can use them on other machines & share them
