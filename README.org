@@ -1,2 +1,4 @@
 * DOTFILES
 repo to keep my wm dotfiles etc so that i can use them on other machines & share them
+
+this repo is not a one-to-one copy of my =.config= directory= rather it's just a convenient way of storing the more customised dotfiles that i have.
