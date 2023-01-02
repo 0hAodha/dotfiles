@@ -1,5 +1,6 @@
 # Normal colors
 normal:
+  black:    '#0c0d0e'
   black:   '#1d1f21'
   red:     '#cc6666'
   green:   '#b5bd68'
